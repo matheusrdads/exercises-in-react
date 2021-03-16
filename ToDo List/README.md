@@ -1,7 +1,6 @@
 
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-![To-Do-list-Google-Chrome-2021-02-07-11-38-30](https://user-images.githubusercontent.com/59870106/111377116-0d7a0080-867f-11eb-89a4-0460d1a85a05.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
