@@ -1,3 +1,4 @@
+![react-nutri-gif](https://user-images.githubusercontent.com/59870106/111382185-68aef180-8685-11eb-87c6-fc284afc560c.gif)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
