@@ -1,3 +1,4 @@
+![Cronometro-gif](https://user-images.githubusercontent.com/59870106/111484979-fd146500-8714-11eb-8b92-7a40ed2bdc00.gif)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
